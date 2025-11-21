@@ -1,0 +1,34 @@
+Color Palette Mappings:
+Old -> New
+
+bg-blue-50 -> bg-[#ADE1FB]/20
+bg-blue-100 -> bg-[#ADE1FB]/40
+bg-blue-200 -> bg-[#ADE1FB]/60
+bg-blue-300 -> bg-[#ADE1FB]
+bg-blue-400 -> bg-[#266CA9]/70
+bg-blue-500 -> bg-[#266CA9]
+bg-blue-600 -> bg-[#266CA9]
+bg-blue-700 -> bg-[#0F2573]
+bg-blue-800 -> bg-[#041D56]
+bg-blue-900 -> bg-[#01082D]
+
+text-blue-50 -> text-[#ADE1FB]
+text-blue-100 -> text-[#ADE1FB]
+text-blue-200 -> text-[#ADE1FB]
+text-blue-300 -> text-[#ADE1FB]
+text-blue-400 -> text-[#266CA9]/70
+text-blue-500 -> text-[#266CA9]
+text-blue-600 -> text-[#266CA9]
+text-blue-700 -> text-[#0F2573]
+text-blue-800 -> text-[#041D56]
+text-blue-900 -> text-[#01082D]
+
+border-blue-100 -> border-[#ADE1FB]/30
+border-blue-200 -> border-[#266CA9]/20
+border-blue-300 -> border-[#266CA9]/40
+border-blue-400 -> border-[#266CA9]/60
+border-blue-600 -> border-[#266CA9]
+
+from-blue-600 -> from-[#266CA9]
+to-blue-600 -> to-[#0F2573]
+to-blue-800 -> to-[#041D56]
